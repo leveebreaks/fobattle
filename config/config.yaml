@@ -1,0 +1,7 @@
+bot:
+  token: "1173363122:AAEpxBUp-zNASjxwmdBvKrdvchfZ5WiIOFI"
+fpl:
+  league_id: "333784"
+  api_urls:
+    picks: "https://fantasy.premierleague.com/api/entry/{manager_id}/event/{event_id}/picks/"
+    standings: "https://fantasy.premierleague.com/api/leagues-classic/{league_id}/standings/"
